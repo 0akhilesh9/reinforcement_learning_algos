@@ -1,4 +1,5 @@
 Implementations of the following reinforcement learning algorithms:
+
 Vanilla Online Q learning (without target network and replay buffer), 
 Fitted Q Iteration,
 DQN,
