@@ -1,0 +1,1 @@
+Implementations of REINFORCE and Actor-Critic (A2C) reinforcement learning algorithms run on MuJoCo environments (Half Cheetah and Inverted Pendulum).

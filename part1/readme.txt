@@ -1,0 +1,1 @@
+Implementations of Vanilla Online Q learning (without target network and replay buffer), Fitted Q Iteration, DQN, DQN-like-version of SARSA run on Atari environment (Breakout) and MuJoCo environments (Half Cheetah and Inverted Pendulum).
